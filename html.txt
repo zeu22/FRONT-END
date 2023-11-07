@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Gallinas Ponedoras</title>
+    <link rel="shortcut icon" href="pollo.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="estilos.css"> 
+    <h1  >AVELINAS</h1>
+ 
+</head>
+
+
+
+<body background="fondopantalla.jpg" >
+
+<div class="head"></div>
+    <nav >
+        <a href="#">Inicio</a>
+        <a href="#">Acerca De</a>
+        <a href="#">Tiendas</a>
+        <a href="#">Servicios</a>
+        <a href="#">Contacto</a>
+       
+    </nav>
+    
+    
+    <header class="content header"></header>
+    <h2 class="title">Gallinas Ponedoras </h2>
+
+    <P style="text-align: center; padding: 3%; color: rgb(252, 252, 252);background-color: brown"  >
+        Con la creciente preocupación de la sociedad por la salud, la calidad de los alimentos y la forma en que se trata a los animales de producción, los nuevos requisitos del mercado no dejan lugar a dudas: promover el bienestar durante la crianza de las gallinas ponedoras aporta beneficios tanto a los animales, como a los productores y consumidores.
+    </P>
+    <br>
+    
+    <nav>
+        <ul>
+
+        <li><a href="Ambiente.html" target="_blank">  Ambiente ideal para gallinas ponedoras </a></li>
+        <li><a href="Alimentacion.html" target="_blank"> Alimentacion ideal para gallinas ponedoras</a></li>
+        <li><a href="Comercializacion de aves.html" target="_blank"> Compra y Venta de aves ponedoras</a></li>
+
+        </ul>
+    </nav>
+
+    <br>
+
+    <p style="padding: 2%; font-family:'Times New Roman', Times, serif; color: aliceblue;">
+        Teniendo en cuenta la importancia del sector avícola mencionado en líneas anteriores, hemos hecho una revisión sobre diversas razas de gallinas ponedoras o gallinas de postura y a continuación la ponemos a tu disposición ya que puede resultar muy útil a la hora de iniciar o potenciar tu negocio. 
+    </p>
+
+    
+
+
+    <table  width="100%"cellspacing="5" cellpadding="0">
+        <tr style="background-color: rgb(255, 255, 255);">
+            <td style="padding: 1%;"> <img src="https://colaves.com/wp-content/uploads/2020/09/gallina_detalle2.png" width="20%" height="20%"><b>Ponedora Isa Brown</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/11/gallina-ponedora-barrada.jpg" width="20%" height="20%"><b>Ponedora Barrada</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/11/gallinas-ponedoras-blancas.jpg" width="20%" height="20%"><b>Ponedora Blanca</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/11/gallinas-ponedoras-cuello-pelado.jpg" width="30%" height="20%"><b>Ponedora Cuello Pelado</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/11/gallina-ponedora-campera.jpg" width="30%" height="20%"><b>Ponedora Campera</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/09/shaver_bh_detalle.png" width="20%" height="20%"><b>Ponedora Negra</b></td>
+            <td  style="padding: 1%;"><img src="https://colaves.com/wp-content/uploads/2020/11/gallinas-ponedoras-sussex.jpg" width="30%" height="20%"><b>Ponedora Susse</b></td>
+
+        </tr>
+
+            <tr style="background-color:brown; color: azure; font-family: Arial;">
+                <td style="padding: 1%;">Encabezando la lista de Gallinas Ponedoras, se encuentra nuestra Ponedora de los Huevos de Oro.
+                    La ponedora de referencia desde hace más de 30 años en todo el mundo. ISA Brown se adapta a todos los climas y condiciones ambientales y es conocida mundialmente como la ponedora más “eficiente” del mercado, capaz de poner hasta 500 huevos de la mejor calidad</td>
+                    <td  style="padding: 1%;">También llamada jabada franciscana, pedresa, loriga o amóchala, fue creada con cruces de líneas de Plymouth Rock Barrada y Blanca. Es una ponedora con cualidades óptimas para la cría doméstica y sistema. Es una gallina semipesada que alcanza los dos (2) kilos con un buen porcentaje de puesta de huevos de unos 280 huevos anuales de 63 gr y color moreno.</td>
+                    <td style="padding: 1%;">También conocida como Leghorn, fue creada en Estados Unidos a partir de gallinas importadas en 1835 de Italia. Esta ave en la actualidad es una de las más conocidas a nivel mundial por su excelente calidad productiva, pues la mayor parte de la producción mundial de huevos de cáscara blanca proviene de las gallinas Leghorn. </td>
+                    <td style="padding: 1%;">La gallina ponedora Piroca o Cuello pelado, es un ave semipesada que alcanza los 2,5 kg y se caracteriza por un cuello muy rojo y sin plumas.</td>
+                    <td style="padding: 1%;">Son las hermanas de los pollos camperos de engorde, tienen un gran potencial genético, así como excelentes cualidades para la cría rural.</td>
+                    <td style="padding: 1%;">Tiene sus orígenes en un cruce desarrollado en Estados Unidos en los años 60, generando una ponedora autosexable. En la actualidad es la ponedora de color con mayor éxito en la gama rural pues posee un sistema inmunológico muy desarrollado.</td>
+                    <td style="padding: 1%;">Esta gallina ponedora tiene sus orígenes a mediados de siglo XX. Se caracteriza por su carácter dócil y buena puesta. Puede llegar a pesar 2 kg y poner 280 huevos anuales de 58 gr que van desde el color amarillo hasta el marrón crema.</td>
+            </tr>
+
+            
+    </table>
+
+    <br>
+    <h3 style="color: white; background-color: brown ;display: flex; justify-content: center; align-items: center;">¿Cómo Criar Gallinas Ponedoras?</h3>
+    <br>
+
+    <img src="gallinasss.jpg" width="400" height="180" alt="Gallinas ponedoras de de 20 semanas" >
+
+    <p style="background-color: brown; color: white;">
+       <b> Para criar gallinas ponedoras en casa primero debes tener en cuenta el espacio que tienes disponible en el hogar y cuánto de éste puedes destinar para la cría de las gallinas ponedoras. Una vez hecho esto, puedes preparar y acondicionar el espacio seleccionado para evitar el hacinamiento de las gallinas, así como el brote de enfermedades producidas por los desperdicios de comida y los fisiológicos de las aves, los cuales pueden atraer plagas indeseadas como moscas y ratones. </b>
+    </p>
+       
+    <br>
+
+
+    <audio controls>
+        <source src="el-pollo_1.mp3" type="audio/mp3">
+        <source src="forelisa.ogg" type="audio/ogg">
+        <source src="forelisa.wav" type="audio/wav">
+            Tu navegador no soporta audio HTML5.
+    </audio>
+
+    <section id="sect1" class="sect">
+        <video src="rooster_-_8386 (540p).mp4" autoplay="true" muted="true" loop="true" poster="https://carontestudio.com/img/contacto.jpg" width="200" height="100"></video>
+        
+      </section>
+    <br>
+    <br>
+
+    <form style="color: white;">
+        <fieldset>
+            <legend>Si desea comprar alguna de estas aves ingrese sus datos</legend>
+            Nombre...........<input><br>
+            Apellido..........<input><br>
+            Correo.............<input><br>
+            Direccion.........<input><br>
+            Nro de telefono<input><br>
+            Sugerencia<br>
+            
+            <textarea ></textarea><br>
+            <button>Enviar</button>
+            
+        </fieldset>
+    </form> 
+</body>
+</html>

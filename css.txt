@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.title{
+    text-align: center;
+    font-size: 3rem;
+    padding: .8em 0 .4em;
+    
+}
+h1{
+    
+    
+    color: rgb(22, 22, 21);
+    padding: 15.px;
+}
+
+table{
+    
+    opacity: .8;
+  
+  }
+
+  body{
+    
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    cursor: url(mause/mause.png),auto;
+    
+    }
+   
+    
+   
+    img {
+        transition: transform 0.2s ease;
+      }
+      
+      
+      img:hover {
+        transform: scale(1.1);
+      }
